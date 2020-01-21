@@ -9,6 +9,7 @@ npm-debug.*
 *.orig.*
 web-build/
 web-report/
+apikey.txt
 
 # macOS
 .DS_Store
